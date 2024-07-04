@@ -1,0 +1,10 @@
+C:\Users\perei\OneDrive\Documentos\Visual Studio(Useless)\Classic Snakes Game\Classic Snakes Game\Classic Snakes Game\bin\Debug\Classic Snakes Game.exe.config
+C:\Users\perei\OneDrive\Documentos\Visual Studio(Useless)\Classic Snakes Game\Classic Snakes Game\Classic Snakes Game\bin\Debug\Classic Snakes Game.exe
+C:\Users\perei\OneDrive\Documentos\Visual Studio(Useless)\Classic Snakes Game\Classic Snakes Game\Classic Snakes Game\bin\Debug\Classic Snakes Game.pdb
+C:\Users\perei\OneDrive\Documentos\Visual Studio(Useless)\Classic Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic Snakes Game.csproj.AssemblyReference.cache
+C:\Users\perei\OneDrive\Documentos\Visual Studio(Useless)\Classic Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic_Snakes_Game.Form1.resources
+C:\Users\perei\OneDrive\Documentos\Visual Studio(Useless)\Classic Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic_Snakes_Game.Properties.Resources.resources
+C:\Users\perei\OneDrive\Documentos\Visual Studio(Useless)\Classic Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic Snakes Game.csproj.GenerateResource.cache
+C:\Users\perei\OneDrive\Documentos\Visual Studio(Useless)\Classic Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic Snakes Game.csproj.CoreCompileInputs.cache
+C:\Users\perei\OneDrive\Documentos\Visual Studio(Useless)\Classic Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic Snakes Game.exe
+C:\Users\perei\OneDrive\Documentos\Visual Studio(Useless)\Classic Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic Snakes Game.pdb
